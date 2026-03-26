@@ -41,16 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cl.kaisek.com.ico",
     "slug": "cl-backend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "2.23%",
+    "uptimeDay": "2.23%",
+    "uptimeWeek": "2.23%",
+    "uptimeMonth": "2.23%",
+    "uptimeYear": "2.23%",
     "time": 282,
     "timeDay": 282,
     "timeWeek": 282,
     "timeMonth": 282,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-26": 0
+    }
   }
 ]
