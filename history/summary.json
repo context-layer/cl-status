@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 896,
-    "timeDay": 896,
-    "timeWeek": 896,
-    "timeMonth": 896,
-    "timeYear": 896,
+    "time": 887,
+    "timeDay": 887,
+    "timeWeek": 887,
+    "timeMonth": 887,
+    "timeYear": 887,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1550,
-    "timeDay": 1550,
-    "timeWeek": 1550,
-    "timeMonth": 1550,
-    "timeYear": 1550,
+    "time": 1593,
+    "timeDay": 1593,
+    "timeWeek": 1593,
+    "timeMonth": 1593,
+    "timeYear": 1593,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cl.kaisek.com.ico",
     "slug": "cl-backend",
     "status": "down",
-    "uptime": "2.23%",
-    "uptimeDay": "2.23%",
-    "uptimeWeek": "2.23%",
-    "uptimeMonth": "2.23%",
-    "uptimeYear": "2.23%",
-    "time": 282,
-    "timeDay": 282,
-    "timeWeek": 282,
-    "timeMonth": 282,
-    "timeYear": 282,
+    "uptime": "0.50%",
+    "uptimeDay": "0.50%",
+    "uptimeWeek": "0.50%",
+    "uptimeMonth": "0.50%",
+    "uptimeYear": "0.50%",
+    "time": 295,
+    "timeDay": 295,
+    "timeWeek": 295,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {
-      "2026-03-26": 0
+      "2026-03-26": 2
     }
   }
 ]
