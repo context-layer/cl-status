@@ -9,7 +9,7 @@ sites:
     url: https://cl.kaisek.com
 
   - name: CL Backend
-    url: https://cl.kaisek.com/health
+    url: https://cl.kaisek.com/api/health
 
 assignees:
   - context-layer
