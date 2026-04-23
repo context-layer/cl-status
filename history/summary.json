@@ -22,10 +22,10 @@
     "url": "https://cl.kaisek.com",
     "icon": "https://icons.duckduckgo.com/ip3/cl.kaisek.com.ico",
     "slug": "cl-console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1470,
@@ -33,7 +33,9 @@
     "timeWeek": 1519,
     "timeMonth": 1470,
     "timeYear": 1470,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-23": 1
+    }
   },
   {
     "name": "CL Backend",
