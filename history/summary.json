@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 788,
-    "timeWeek": 796,
-    "timeMonth": 788,
-    "timeYear": 788,
+    "time": 787,
+    "timeDay": 759,
+    "timeWeek": 784,
+    "timeMonth": 787,
+    "timeYear": 787,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "cl-console",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "95.04%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 1466,
-    "timeDay": 1364,
-    "timeWeek": 1493,
-    "timeMonth": 1466,
-    "timeYear": 1466,
+    "time": 1468,
+    "timeDay": 1508,
+    "timeWeek": 1491,
+    "timeMonth": 1468,
+    "timeYear": 1468,
     "dailyMinutesDown": {
       "2026-04-23": 71
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 663,
-    "timeDay": 273,
-    "timeWeek": 765,
-    "timeMonth": 663,
-    "timeYear": 663,
+    "time": 652,
+    "timeDay": 307,
+    "timeWeek": 619,
+    "timeMonth": 652,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2026-03-26": 30
     }
