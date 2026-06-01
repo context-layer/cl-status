@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 772,
-    "timeDay": 710,
-    "timeWeek": 740,
-    "timeMonth": 754,
+    "timeDay": 769,
+    "timeWeek": 744,
+    "timeMonth": 757,
     "timeYear": 772,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cl.kaisek.com.ico",
     "slug": "cl-console",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 1459,
-    "timeDay": 1381,
-    "timeWeek": 1445,
-    "timeMonth": 1448,
-    "timeYear": 1459,
+    "uptimeYear": "99.93%",
+    "time": 1446,
+    "timeDay": 564,
+    "timeWeek": 1311,
+    "timeMonth": 1418,
+    "timeYear": 1446,
     "dailyMinutesDown": {
       "2026-04-23": 71
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 692,
-    "timeDay": 1019,
-    "timeWeek": 952,
-    "timeMonth": 750,
-    "timeYear": 692,
+    "time": 688,
+    "timeDay": 380,
+    "timeWeek": 846,
+    "timeMonth": 724,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2026-03-26": 30
     }
