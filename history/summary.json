@@ -4,18 +4,20 @@
     "url": "https://api.cl.kaisek.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.cl.kaisek.com.ico",
     "slug": "cl-core-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 807,
-    "timeWeek": 775,
-    "timeMonth": 762,
-    "timeYear": 773,
-    "dailyMinutesDown": {}
+    "time": 827,
+    "timeDay": 2838,
+    "timeWeek": 1287,
+    "timeMonth": 890,
+    "timeYear": 827,
+    "dailyMinutesDown": {
+      "2026-06-04": 0
+    }
   },
   {
     "name": "CL Console",
